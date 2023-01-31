@@ -197,4 +197,4 @@ dn_lq_MN_mindist %>%
 
 ###Exercise 12
 
-I think his joke will receive the strongest support from evidence in Texas.
+I think his joke will receive the strongest support from evidence in Texas. It seems to have the most positive skewed data. 

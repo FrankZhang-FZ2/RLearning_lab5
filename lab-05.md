@@ -201,7 +201,9 @@ dn_lq_MN_mindist %>%
   scale_x_continuous(limits = c(0, 300))
 ```
 
-![](lab-05_files/figure-gfm/MN-1.png)<!-- --> \###Exercise 12
+![](lab-05_files/figure-gfm/MN-1.png)<!-- -->
+
+\###Exercise 12
 
 I think his joke will receive the strongest support from evidence in
-Texas.
+Texas. It seems to have the most positive skewed data.
